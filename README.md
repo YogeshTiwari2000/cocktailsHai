@@ -1,3 +1,3 @@
-In action : https://cocktailhai.netlify.app/
+In action : https://yogeshtiwari2000.github.io/cocktailsHai/
 
 Demo for RestrauntMenu : https://restrauntmenuhai.netlify.app/
